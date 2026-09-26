@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Developer;AI%2FML+%26+GenAI+Enthusiast;Java+Developer;DSA+Enthusiast"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Developer;AI%2FML+%26+GenAI+Enthusiast;Mern-Stack;DSA+Enthusiast"
       alt="Typing SVG showing Vaibhav Rohila's developer roles"
     />
   </a>

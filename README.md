@@ -136,29 +136,24 @@
 
 ### ConnectSphere AI — AI-Powered Professional Networking Platform
 
-An AI-powered professional networking platform featuring authentication, real-time messaging, AI skill verification, resume review, career-roadmap generation, and project analysis.
+An AI-powered professional networking platform featuring authentication, real-time messaging, AI skill verification, resume review, career-roadmap generation, project analysis, collaboration, and digital credentials.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Socket.IO, OpenAI/Gemini APIs, Cloudinary  
-**Repository:** Not public yet  
-**Live demo:** Not provided yet
+**Project article:** [Read on Medium](https://medium.com/@vaibhavrohila123/connectsphere-ai-building-an-ai-powered-professional-networking-platform-660c790cfe81)
 
 ### AI-Powered Chatbot for University Student Support
 
 An AI chatbot that uses NLP and machine-learning concepts to understand student queries and provide automated academic and administrative support.
 
-**Tech:** Machine Learning, NLP  
-**Repository:** Not public yet  
-**Live demo:** Not provided yet
+**Tech:** Python, Machine Learning, NLP  
+**Project article:** [Read on Medium](https://medium.com/@vaibhavrohila123/ai-powered-chatbot-for-university-student-support-ec996e40738e)
 
 ### CrimeSense — AI-Powered Crime Analysis & Safety Platform
 
 An AI/ML-driven platform for crime-data analysis, safety insights, and crime-aware navigation.
 
 **Tech:** AI/ML, Full-Stack Development  
-**Repository:** Not public yet  
-**Live demo:** Not provided yet
-
-> When a project repository or deployment is public, replace “Not public yet” or “Not provided yet” with a Markdown link, for example: `[View Repository](https://github.com/your-username/repository-name)`.
+**Project article:** [Read on Medium](https://medium.com/@vaibhavrohila123/crimesense-building-an-ai-powered-crime-intelligence-safety-aware-navigation-platform-8ec397b02993)
 
 ---
 

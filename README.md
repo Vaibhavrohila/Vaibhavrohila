@@ -28,7 +28,7 @@
   <a href="https://www.codechef.com/users/vaibhavrohila">
     <img src="https://img.shields.io/badge/CodeChef-vaibhavrohila-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
   </a>
-  <a href="https://geeksforgeeks.org/vaibhavro0z8e">
+  <a href="https://www.geeksforgeeks.org/profile/vaibhavro0z8e?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-vaibhavro0z8e-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
   </a>
 </p>

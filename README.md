@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/vaibhav_rohila">
     <img src="https://img.shields.io/badge/LeetCode-vaibhav__rohila-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
-  <a href="https://codechef.com/vaibhavrohila">
+  <a href="https://www.codechef.com/users/vaibhavrohila">
     <img src="https://img.shields.io/badge/CodeChef-vaibhavrohila-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
   </a>
   <a href="https://geeksforgeeks.org/vaibhavro0z8e">
